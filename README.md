@@ -1,3 +1,4 @@
-### Working on new things!
+## Working on new things!
 
+### React & Next.js Dev
 
