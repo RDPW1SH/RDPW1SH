@@ -1,4 +1,4 @@
 ## Working on new things!
 
-### React & Next.js Dev
+### Fullstack Web Developer  - React & Next.js
 
